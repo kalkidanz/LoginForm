@@ -1,0 +1,37 @@
+*{
+    background: darkgray;
+    font-weight: 600;
+} 
+form h1{
+    text-align: center;
+    color:darkgreen;
+}
+label{
+    padding: 10px;
+    line-height: 2rem;
+    display:inline-flex; 
+}
+.input_box{
+    border-radius: 20px;
+    padding: 5px;
+    width: 250px;
+    border-color: green;    
+}
+form{
+margin-top: 80px;
+align-content: center;
+text-align: center;
+}
+input[type="submit"]{
+    background-color: darkgreen;
+    margin: 5px;
+    border-radius: 10px;
+    padding: 5px;
+    cursor: pointer;
+}
+p a{
+    text-decoration: none;
+    color: darkgreen;
+}
+
+
